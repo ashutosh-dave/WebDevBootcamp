@@ -1,7 +1,7 @@
 #The Web Developer Bootcamp
 Day-to-day progress being updated on daily basis!
 
--Things I will cover in this journey.
+- Things I will cover in this journey.
 
 1. HTML
 2. CSS
