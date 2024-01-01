@@ -1,4 +1,4 @@
-#The Web Developer Bootcamp
+# The Web Developer Bootcamp
 Day-to-day progress being updated on daily basis!
 
 - Things I will cover in this journey.
